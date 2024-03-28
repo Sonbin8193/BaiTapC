@@ -26,7 +26,7 @@ namespace Bai2
 
         internal class Retangle
         {
-            public static int GanGiaTriHinhChuNhat(int a,int b)
+            public static void GanGiaTriHinhChuNhat(int a,int b)
             {
                 int chieuDai=a;
                 int chieuRong=b;
