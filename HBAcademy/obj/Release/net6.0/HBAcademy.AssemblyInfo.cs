@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HBAcademy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a961aa4bf6e5ec56bf3209bdd60efab2fbff85b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+184b1b9a1c5f3d1671503fbdda393ce1e9072ac8")]
 [assembly: System.Reflection.AssemblyProductAttribute("HBAcademy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HBAcademy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

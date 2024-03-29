@@ -11,7 +11,6 @@ namespace HBAcademy
     {
         public static void Main(string[] args)
         {
-            Console.BackgroundColor = ConsoleColor.Green;
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Nhap dan so Los Angeles nam 1940: ");
             float danSoLosAngelesNam1940 = float.Parse(Console.ReadLine());
@@ -33,8 +32,9 @@ namespace HBAcademy
             Console.WriteLine("Nhap dan so Detroit nam 1950: ");
             float danSoDetroitNam1950 = float.Parse(Console.ReadLine());
             float tyLeDanDetroit = 100 * danSoDetroitNam1940 / danSoDetroitNam1950;
-            Console.WriteLine("-----------------------------");
-            Console.WriteLine($"|{"City",-15}|{"Year",-10}|{"Population",-15}|{"Year",-10}|{"Population",-15}|{"Change",-10}");
+            Console.Clear();
+            Console.WriteLine("-------------------------------------------------------------------------------------");
+            Console.WriteLine($"|{"City",-15}|{"Year",-10}|{"Population",-15}|{"Year",-10}|{"Population",-15}|{"Change",-10}|");
             Console.WriteLine("-------------------------------------------------------------------------------------");
             Console.WriteLine($"|{"LosAngeles",-15}|{1940,-10}|{danSoLosAngelesNam1940,-15}|{1950,-10}|{danSoLosAngelesNam1950,-15}|{$"{tyLeDanLosAngeles:F2}" + "%"}");
             Console.WriteLine("-------------------------------------------------------------------------------------");
@@ -44,6 +44,8 @@ namespace HBAcademy
             Console.WriteLine("-------------------------------------------------------------------------------------");
             Console.WriteLine($"|{"Detroit",-15}|{1940,-10}|{danSoDetroitNam1940,-15}|{1950,-10}|{danSoDetroitNam1950,-15}|{$"{tyLeDanDetroit:F2}" + "%"}");
             Console.WriteLine("-------------------------------------------------------------------------------------");
+            Console.WriteLine("Nhan phim bat ky de ket thuc");
+            Console.ReadLine();
         }
        
     }
