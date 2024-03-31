@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sonbi\\source\\repos\\BaiTapC\\LietKeDuLieu\\LietKeDuLieu.csproj": {}
+    "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\LietKeDuLieu\\LietKeDuLieu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sonbi\\source\\repos\\BaiTapC\\LietKeDuLieu\\LietKeDuLieu.csproj": {
+    "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\LietKeDuLieu\\LietKeDuLieu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sonbi\\source\\repos\\BaiTapC\\LietKeDuLieu\\LietKeDuLieu.csproj",
+        "projectUniqueName": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\LietKeDuLieu\\LietKeDuLieu.csproj",
         "projectName": "LietKeDuLieu",
-        "projectPath": "C:\\Users\\sonbi\\source\\repos\\BaiTapC\\LietKeDuLieu\\LietKeDuLieu.csproj",
+        "projectPath": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\LietKeDuLieu\\LietKeDuLieu.csproj",
         "packagesPath": "C:\\Users\\sonbi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sonbi\\source\\repos\\BaiTapC\\LietKeDuLieu\\obj\\",
+        "outputPath": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\LietKeDuLieu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sonbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,12 +50,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
