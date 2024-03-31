@@ -20,6 +20,8 @@
             {
                 Console.WriteLine("Mã Unicode không hợp lệ.");
             }
+            Console.WriteLine() ;
+            Console.ReadLine(); 
         }
     }
 }

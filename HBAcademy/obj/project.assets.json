@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\sonbi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\BaiTapC\\HBAcademy\\HBAcademy.csproj",
+      "projectUniqueName": "C:\\Users\\sonbi\\Source\\Repos\\BaiTapC\\HBAcademy\\HBAcademy.csproj",
       "projectName": "HBAcademy",
-      "projectPath": "C:\\Users\\Admin\\Source\\Repos\\BaiTapC\\HBAcademy\\HBAcademy.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Source\\Repos\\BaiTapC\\HBAcademy\\obj\\",
+      "projectPath": "C:\\Users\\sonbi\\Source\\Repos\\BaiTapC\\HBAcademy\\HBAcademy.csproj",
+      "packagesPath": "C:\\Users\\sonbi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sonbi\\Source\\Repos\\BaiTapC\\HBAcademy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sonbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

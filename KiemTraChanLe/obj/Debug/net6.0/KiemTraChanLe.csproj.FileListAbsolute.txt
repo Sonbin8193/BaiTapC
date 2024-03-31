@@ -1,0 +1,15 @@
+C:\Users\sonbi\source\repos\BaiTapC\KiemTraChanLe\obj\Debug\net6.0\KiemTraChanLe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonbi\source\repos\BaiTapC\KiemTraChanLe\obj\Debug\net6.0\KiemTraChanLe.AssemblyInfoInputs.cache
+C:\Users\sonbi\source\repos\BaiTapC\KiemTraChanLe\obj\Debug\net6.0\KiemTraChanLe.AssemblyInfo.cs
+C:\Users\sonbi\source\repos\BaiTapC\KiemTraChanLe\obj\Debug\net6.0\KiemTraChanLe.csproj.CoreCompileInputs.cache
+C:\Users\sonbi\source\repos\BaiTapC\KiemTraChanLe\obj\Debug\net6.0\KiemTraChanLe.sourcelink.json
+C:\Users\sonbi\source\repos\BaiTapC\KiemTraChanLe\bin\Debug\net6.0\KiemTraChanLe.exe
+C:\Users\sonbi\source\repos\BaiTapC\KiemTraChanLe\bin\Debug\net6.0\KiemTraChanLe.deps.json
+C:\Users\sonbi\source\repos\BaiTapC\KiemTraChanLe\bin\Debug\net6.0\KiemTraChanLe.runtimeconfig.json
+C:\Users\sonbi\source\repos\BaiTapC\KiemTraChanLe\bin\Debug\net6.0\KiemTraChanLe.dll
+C:\Users\sonbi\source\repos\BaiTapC\KiemTraChanLe\bin\Debug\net6.0\KiemTraChanLe.pdb
+C:\Users\sonbi\source\repos\BaiTapC\KiemTraChanLe\obj\Debug\net6.0\KiemTraChanLe.dll
+C:\Users\sonbi\source\repos\BaiTapC\KiemTraChanLe\obj\Debug\net6.0\refint\KiemTraChanLe.dll
+C:\Users\sonbi\source\repos\BaiTapC\KiemTraChanLe\obj\Debug\net6.0\KiemTraChanLe.pdb
+C:\Users\sonbi\source\repos\BaiTapC\KiemTraChanLe\obj\Debug\net6.0\KiemTraChanLe.genruntimeconfig.cache
+C:\Users\sonbi\source\repos\BaiTapC\KiemTraChanLe\obj\Debug\net6.0\ref\KiemTraChanLe.dll

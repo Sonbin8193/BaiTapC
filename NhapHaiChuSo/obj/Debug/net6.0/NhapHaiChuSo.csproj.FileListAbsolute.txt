@@ -1,0 +1,15 @@
+C:\Users\sonbi\source\repos\BaiTapC\NhapHaiChuSo\bin\Debug\net6.0\NhapHaiChuSo.exe
+C:\Users\sonbi\source\repos\BaiTapC\NhapHaiChuSo\bin\Debug\net6.0\NhapHaiChuSo.deps.json
+C:\Users\sonbi\source\repos\BaiTapC\NhapHaiChuSo\bin\Debug\net6.0\NhapHaiChuSo.runtimeconfig.json
+C:\Users\sonbi\source\repos\BaiTapC\NhapHaiChuSo\bin\Debug\net6.0\NhapHaiChuSo.dll
+C:\Users\sonbi\source\repos\BaiTapC\NhapHaiChuSo\bin\Debug\net6.0\NhapHaiChuSo.pdb
+C:\Users\sonbi\source\repos\BaiTapC\NhapHaiChuSo\obj\Debug\net6.0\NhapHaiChuSo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonbi\source\repos\BaiTapC\NhapHaiChuSo\obj\Debug\net6.0\NhapHaiChuSo.AssemblyInfoInputs.cache
+C:\Users\sonbi\source\repos\BaiTapC\NhapHaiChuSo\obj\Debug\net6.0\NhapHaiChuSo.AssemblyInfo.cs
+C:\Users\sonbi\source\repos\BaiTapC\NhapHaiChuSo\obj\Debug\net6.0\NhapHaiChuSo.csproj.CoreCompileInputs.cache
+C:\Users\sonbi\source\repos\BaiTapC\NhapHaiChuSo\obj\Debug\net6.0\NhapHaiChuSo.sourcelink.json
+C:\Users\sonbi\source\repos\BaiTapC\NhapHaiChuSo\obj\Debug\net6.0\NhapHaiChuSo.dll
+C:\Users\sonbi\source\repos\BaiTapC\NhapHaiChuSo\obj\Debug\net6.0\refint\NhapHaiChuSo.dll
+C:\Users\sonbi\source\repos\BaiTapC\NhapHaiChuSo\obj\Debug\net6.0\NhapHaiChuSo.pdb
+C:\Users\sonbi\source\repos\BaiTapC\NhapHaiChuSo\obj\Debug\net6.0\NhapHaiChuSo.genruntimeconfig.cache
+C:\Users\sonbi\source\repos\BaiTapC\NhapHaiChuSo\obj\Debug\net6.0\ref\NhapHaiChuSo.dll

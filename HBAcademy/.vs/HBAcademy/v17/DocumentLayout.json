@@ -1,12 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\HBAcademy\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\sonbi\\source\\repos\\BaiTapC\\HBAcademy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49A19113-2BFB-4073-BB46-D8F5B459B4D0}|..\\LietKeDuLieu\\LietKeDuLieu.csproj|c:\\users\\sonbi\\source\\repos\\baitapc\\lietkedulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC81267B-26BC-4D4D-83FC-1F1BEB2689FE}|..\\NhapHaiChuSo\\NhapHaiChuSo.csproj|c:\\users\\sonbi\\source\\repos\\baitapc\\nhaphaichuso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F039BE14-73E1-498C-923D-FA08B50580CD}|..\\KiemTraChanLe\\KiemTraChanLe.csproj|c:\\users\\sonbi\\source\\repos\\baitapc\\kiemtrachanle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AE37BA-9516-45E3-834A-A91B32CF9F13}|..\\DaoNguocChuoi\\DaoNguocChuoi.csproj|c:\\users\\sonbi\\source\\repos\\baitapc\\daonguocchuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonbi\\source\\repos\\BaiTapC\\KiemTraChanLe\\Program.cs",
+              "RelativeDocumentMoniker": "..\\KiemTraChanLe\\Program.cs",
+              "ToolTip": "C:\\Users\\sonbi\\source\\repos\\BaiTapC\\KiemTraChanLe\\Program.cs",
+              "RelativeToolTip": "..\\KiemTraChanLe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:41:30.894Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonbi\\source\\repos\\BaiTapC\\LietKeDuLieu\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LietKeDuLieu\\Program.cs",
+              "ToolTip": "C:\\Users\\sonbi\\source\\repos\\BaiTapC\\LietKeDuLieu\\Program.cs",
+              "RelativeToolTip": "..\\LietKeDuLieu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:01:28.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonbi\\source\\repos\\BaiTapC\\NhapHaiChuSo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NhapHaiChuSo\\Program.cs",
+              "ToolTip": "C:\\Users\\sonbi\\source\\repos\\BaiTapC\\NhapHaiChuSo\\Program.cs",
+              "RelativeToolTip": "..\\NhapHaiChuSo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:28:49.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonbi\\source\\repos\\BaiTapC\\DaoNguocChuoi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DaoNguocChuoi\\Program.cs",
+              "ToolTip": "C:\\Users\\sonbi\\source\\repos\\BaiTapC\\DaoNguocChuoi\\Program.cs",
+              "RelativeToolTip": "..\\DaoNguocChuoi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:53:30.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
