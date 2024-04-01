@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\BaiTapC\KiemTraKyTu\obj\Debug\net8.0\KiemTraKyTu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BaiTapC\KiemTraKyTu\obj\Debug\net8.0\KiemTraKyTu.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BaiTapC\KiemTraKyTu\obj\Debug\net8.0\KiemTraKyTu.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BaiTapC\KiemTraKyTu\obj\Debug\net8.0\KiemTraKyTu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaiTapC\KiemTraKyTu\obj\Debug\net8.0\KiemTraKyTu.sourcelink.json
+C:\Users\Admin\source\repos\BaiTapC\KiemTraKyTu\bin\Debug\net8.0\KiemTraKyTu.exe
+C:\Users\Admin\source\repos\BaiTapC\KiemTraKyTu\bin\Debug\net8.0\KiemTraKyTu.deps.json
+C:\Users\Admin\source\repos\BaiTapC\KiemTraKyTu\bin\Debug\net8.0\KiemTraKyTu.runtimeconfig.json
+C:\Users\Admin\source\repos\BaiTapC\KiemTraKyTu\bin\Debug\net8.0\KiemTraKyTu.dll
+C:\Users\Admin\source\repos\BaiTapC\KiemTraKyTu\bin\Debug\net8.0\KiemTraKyTu.pdb
+C:\Users\Admin\source\repos\BaiTapC\KiemTraKyTu\obj\Debug\net8.0\KiemTraKyTu.dll
+C:\Users\Admin\source\repos\BaiTapC\KiemTraKyTu\obj\Debug\net8.0\refint\KiemTraKyTu.dll
+C:\Users\Admin\source\repos\BaiTapC\KiemTraKyTu\obj\Debug\net8.0\KiemTraKyTu.pdb
+C:\Users\Admin\source\repos\BaiTapC\KiemTraKyTu\obj\Debug\net8.0\KiemTraKyTu.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BaiTapC\KiemTraKyTu\obj\Debug\net8.0\ref\KiemTraKyTu.dll

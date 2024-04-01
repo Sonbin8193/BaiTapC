@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\BaiTapC\BaiTapStruct\bin\Debug\net8.0\BaiTapStruct.exe
+C:\Users\Admin\source\repos\BaiTapC\BaiTapStruct\bin\Debug\net8.0\BaiTapStruct.deps.json
+C:\Users\Admin\source\repos\BaiTapC\BaiTapStruct\bin\Debug\net8.0\BaiTapStruct.runtimeconfig.json
+C:\Users\Admin\source\repos\BaiTapC\BaiTapStruct\bin\Debug\net8.0\BaiTapStruct.dll
+C:\Users\Admin\source\repos\BaiTapC\BaiTapStruct\bin\Debug\net8.0\BaiTapStruct.pdb
+C:\Users\Admin\source\repos\BaiTapC\BaiTapStruct\obj\Debug\net8.0\BaiTapStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BaiTapC\BaiTapStruct\obj\Debug\net8.0\BaiTapStruct.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BaiTapC\BaiTapStruct\obj\Debug\net8.0\BaiTapStruct.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BaiTapC\BaiTapStruct\obj\Debug\net8.0\BaiTapStruct.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaiTapC\BaiTapStruct\obj\Debug\net8.0\BaiTapStruct.sourcelink.json
+C:\Users\Admin\source\repos\BaiTapC\BaiTapStruct\obj\Debug\net8.0\BaiTapStruct.dll
+C:\Users\Admin\source\repos\BaiTapC\BaiTapStruct\obj\Debug\net8.0\refint\BaiTapStruct.dll
+C:\Users\Admin\source\repos\BaiTapC\BaiTapStruct\obj\Debug\net8.0\BaiTapStruct.pdb
+C:\Users\Admin\source\repos\BaiTapC\BaiTapStruct\obj\Debug\net8.0\BaiTapStruct.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BaiTapC\BaiTapStruct\obj\Debug\net8.0\ref\BaiTapStruct.dll

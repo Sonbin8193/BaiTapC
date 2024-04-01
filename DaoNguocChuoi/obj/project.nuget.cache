@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FdkGa5nyhdT3AQmZ1Ye3Fzx4X0FN5pA1PW40zbmczFAv5hy4g3z2cqmClz5//SIVoQ4oxDSrvJmNlkayCL0+hA==",
+  "dgSpecHash": "wGZmgGLx1C/uICly3Klqiy0Aa/aVVwdOQ0oowkdJzdx9tGaw675sRlFrBkQd/uqxapafdZMDJ0PIy8jY1iI+Bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\DaoNguocChuoi\\DaoNguocChuoi.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\DaoNguocChuoi\\DaoNguocChuoi.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

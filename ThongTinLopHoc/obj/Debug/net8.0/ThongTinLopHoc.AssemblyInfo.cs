@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThongTinLopHoc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+557132f338c65f163359c6c22480b152c1ff0f63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16d1bd53dde7920a059b617a8def024ef2824c8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThongTinLopHoc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThongTinLopHoc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
