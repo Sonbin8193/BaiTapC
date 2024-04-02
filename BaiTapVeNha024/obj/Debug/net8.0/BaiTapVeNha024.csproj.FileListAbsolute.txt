@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\BaiTapC\BaiTapVeNha024\bin\Debug\net8.0\BaiTapVeNha024.exe
+C:\Users\Admin\source\repos\BaiTapC\BaiTapVeNha024\bin\Debug\net8.0\BaiTapVeNha024.deps.json
+C:\Users\Admin\source\repos\BaiTapC\BaiTapVeNha024\bin\Debug\net8.0\BaiTapVeNha024.runtimeconfig.json
+C:\Users\Admin\source\repos\BaiTapC\BaiTapVeNha024\bin\Debug\net8.0\BaiTapVeNha024.dll
+C:\Users\Admin\source\repos\BaiTapC\BaiTapVeNha024\bin\Debug\net8.0\BaiTapVeNha024.pdb
+C:\Users\Admin\source\repos\BaiTapC\BaiTapVeNha024\obj\Debug\net8.0\BaiTapVeNha024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BaiTapC\BaiTapVeNha024\obj\Debug\net8.0\BaiTapVeNha024.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BaiTapC\BaiTapVeNha024\obj\Debug\net8.0\BaiTapVeNha024.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BaiTapC\BaiTapVeNha024\obj\Debug\net8.0\BaiTapVeNha024.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaiTapC\BaiTapVeNha024\obj\Debug\net8.0\BaiTapVeNha024.sourcelink.json
+C:\Users\Admin\source\repos\BaiTapC\BaiTapVeNha024\obj\Debug\net8.0\BaiTapVeNha024.dll
+C:\Users\Admin\source\repos\BaiTapC\BaiTapVeNha024\obj\Debug\net8.0\refint\BaiTapVeNha024.dll
+C:\Users\Admin\source\repos\BaiTapC\BaiTapVeNha024\obj\Debug\net8.0\BaiTapVeNha024.pdb
+C:\Users\Admin\source\repos\BaiTapC\BaiTapVeNha024\obj\Debug\net8.0\BaiTapVeNha024.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BaiTapC\BaiTapVeNha024\obj\Debug\net8.0\ref\BaiTapVeNha024.dll
