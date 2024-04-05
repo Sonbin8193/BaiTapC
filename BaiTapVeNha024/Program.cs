@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 class Program
 {
-    static void Main()
-    {
-        BaiTapVeNha024.Bai3.TimUocSoChungVaBoiSoChung();
-    }
+        static void Main()
+        {
+        Console.OutputEncoding = Encoding.UTF8;
+        BaiTapVeNha024.Ngay0504.Bai3();
+        }
+
 }
+
 
 
