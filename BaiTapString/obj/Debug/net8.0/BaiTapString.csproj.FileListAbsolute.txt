@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\BaiTapC\BaiTapString\bin\Debug\net8.0\BaiTapString.exe
+C:\Users\Admin\source\repos\BaiTapC\BaiTapString\bin\Debug\net8.0\BaiTapString.deps.json
+C:\Users\Admin\source\repos\BaiTapC\BaiTapString\bin\Debug\net8.0\BaiTapString.runtimeconfig.json
+C:\Users\Admin\source\repos\BaiTapC\BaiTapString\bin\Debug\net8.0\BaiTapString.dll
+C:\Users\Admin\source\repos\BaiTapC\BaiTapString\bin\Debug\net8.0\BaiTapString.pdb
+C:\Users\Admin\source\repos\BaiTapC\BaiTapString\obj\Debug\net8.0\BaiTapString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BaiTapC\BaiTapString\obj\Debug\net8.0\BaiTapString.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BaiTapC\BaiTapString\obj\Debug\net8.0\BaiTapString.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BaiTapC\BaiTapString\obj\Debug\net8.0\BaiTapString.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaiTapC\BaiTapString\obj\Debug\net8.0\BaiTapString.sourcelink.json
+C:\Users\Admin\source\repos\BaiTapC\BaiTapString\obj\Debug\net8.0\BaiTapString.dll
+C:\Users\Admin\source\repos\BaiTapC\BaiTapString\obj\Debug\net8.0\refint\BaiTapString.dll
+C:\Users\Admin\source\repos\BaiTapC\BaiTapString\obj\Debug\net8.0\BaiTapString.pdb
+C:\Users\Admin\source\repos\BaiTapC\BaiTapString\obj\Debug\net8.0\BaiTapString.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BaiTapC\BaiTapString\obj\Debug\net8.0\ref\BaiTapString.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94C5AC92-23A4-4536-8903-B191FFF90E00}|BaiTapString.csproj|c:\\users\\admin\\source\\repos\\baitapc\\baitapstring\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5AC92-23A4-4536-8903-B191FFF90E00}|BaiTapString.csproj|solutionrelative:baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C5AC92-23A4-4536-8903-B191FFF90E00}|BaiTapString.csproj|c:\\users\\admin\\source\\repos\\baitapc\\baitapstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5AC92-23A4-4536-8903-B191FFF90E00}|BaiTapString.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaiTap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapString\\BaiTap.cs",
+              "RelativeDocumentMoniker": "BaiTap.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapString\\BaiTap.cs",
+              "RelativeToolTip": "BaiTap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:19:02.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapString\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapString\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:18:47.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
