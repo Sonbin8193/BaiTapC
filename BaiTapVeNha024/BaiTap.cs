@@ -130,7 +130,8 @@ namespace BaiTapVeNha024
             Console.WriteLine($"Giá trị của {daySoNhiPhan} là {daySoThapPhan}");
         }
 
-        public static void Bai3()
+        /* 
+         * public static void Bai3()
         {
             Console.WriteLine("Nhập vào dãy số bất kỳ (nhỏ hơn 9 chữ số): ");
             string daySoBatKy = Console.ReadLine();
@@ -145,52 +146,52 @@ namespace BaiTapVeNha024
             {
                 switch (daySoBangSo[i]) 
                 {
-                    case 0:
+                    case "0":
                         daySoBangChu[i] = "Không";
                         break;
-                    case 1:
+                    case "1":
                         daySoBangChu[i] = "Một";
                         break;
-                    case 2:
+                    case "2":
                         daySoBangChu[i] = "Hai";
                         break;
-                    case 3:
+                    case "3":
                         daySoBangChu[i] = "Ba";
                         break;
-                    case 4:
+                    case "4":
                         daySoBangChu[i] = "Bốn";
                         break;
-                    case 5:
+                    case "5":
                         daySoBangChu[i] = "Năm";
                         break;
-                    case 6:
+                    case "6":
                         daySoBangChu[i] = "Sáu";
                         break;
-                    case 7:
+                    case "7":
                         daySoBangChu[i] = "Bảy";
                         break;
-                    case 8:
+                    case "8":
                         daySoBangChu[i] = "Tám";
                         break;
-                    case 9:
+                    case "9":
                         daySoBangChu[i] = "Chín";
                         break;                   
                 }
-                /* daySoBangChu[1] += "Mươi";
+                daySoBangChu[1] += "Mươi";
                 daySoBangChu[2] += "Trăm";
                 daySoBangChu[3] += "Nghìn";
                 daySoBangChu[4] += "Mươi";
                 daySoBangChu[5] += "Trăm";
                 daySoBangChu[6] += "Triệu";
                 daySoBangChu[7] += "Mươi";
-                daySoBangChu[8] += "Trăm"; */
+                daySoBangChu[8] += "Trăm";
                 for (int j = 0; j < daySoBangChu.Length - 1; j++)
                 {
                     ketQua += daySoBangChu[daySoBangChu.Length - i-1];
                 }
                 Console.WriteLine(ketQua);
             }
-        }
+        } */
     }
 }
 
