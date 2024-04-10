@@ -1,22 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\HBAcademy\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{41F82EBE-53CC-45D0-A369-5334063AFBB6}|..\\BaiTapVeNha024\\BaiTapVeNha024.csproj|c:\\users\\admin\\source\\repos\\baitapc\\baitapvenha024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41F82EBE-53CC-45D0-A369-5334063AFBB6}|..\\BaiTapVeNha024\\BaiTapVeNha024.csproj|c:\\users\\admin\\source\\repos\\baitapc\\baitapvenha024\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDAF2AF9-4A1F-4412-8DAE-9B47874CB718}|HBAcademy.csproj|c:\\users\\admin\\source\\repos\\baitapc\\hbacademy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDAF2AF9-4A1F-4412-8DAE-9B47874CB718}|HBAcademy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDAF2AF9-4A1F-4412-8DAE-9B47874CB718}|HBAcademy.csproj|c:\\users\\admin\\source\\repos\\baitapc\\hbacademy\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDAF2AF9-4A1F-4412-8DAE-9B47874CB718}|HBAcademy.csproj|solutionrelative:bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -24,59 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Bai2.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\HBAcademy\\Bai2.cs",
-              "RelativeDocumentMoniker": "Bai2.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\HBAcademy\\Bai2.cs",
-              "RelativeToolTip": "Bai2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T11:19:06.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\HBAcademy\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\HBAcademy\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T11:19:14.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapVeNha024\\Program.cs",
-              "RelativeDocumentMoniker": "..\\BaiTapVeNha024\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapVeNha024\\Program.cs",
-              "RelativeToolTip": "..\\BaiTapVeNha024\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCEAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T10:31:21.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapVeNha024\\Test.cs",
-              "RelativeDocumentMoniker": "..\\BaiTapVeNha024\\Test.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapVeNha024\\Test.cs",
-              "RelativeToolTip": "..\\BaiTapVeNha024\\Test.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T11:17:16.375Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

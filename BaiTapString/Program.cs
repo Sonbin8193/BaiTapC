@@ -10,7 +10,7 @@ namespace BaiTapString
     {
         static void Main()
         {
-            BaiTap.NhapChuoi();
+            BaiTap.ChuoiStringBuilder();
         }
     }
 }

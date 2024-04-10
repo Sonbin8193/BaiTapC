@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KiemTraChanLe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66b453616dce7b27c9bcd5fc4cfae22969b705ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bdb9f00ac66b9d86ca24201793b2c557ef148cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("KiemTraChanLe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KiemTraChanLe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
