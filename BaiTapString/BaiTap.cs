@@ -157,5 +157,143 @@ namespace BaiTapString
             chuoiSb.ToString();
             Console.WriteLine(chuoiSb);
         }
+        public static void BaiTapSlide19()
+        {
+            Console.WriteLine("Nhập vào một chuỗi bất kỳ: ");
+            string chuoiNhapVao = Console.ReadLine();
+            Console.WriteLine("Chuỗi vừa nhập là: " + chuoiNhapVao);
+            static void TimDoDaiChuoi(string chuoi)
+            {
+                int count = 0;
+                foreach (var item in chuoi)
+                {
+                    count++;
+                }
+                Console.WriteLine($"Số ký tự trong chuỗi là {count}");
+            }
+            static void ChiaChuoi(string chuoi)
+            {
+                for (int i = 0; i < chuoi.Length; i++)
+                {
+                    Console.Write($"{chuoi[i]}-");
+                }
+            }
+            static void DaoNguocChuoi(string chuoi)
+            {
+                for (int i = 0; i < chuoi.Length; i++)
+                {
+                    Console.Write($"{chuoi[chuoi.Length - 1 - i]}-");
+                }
+
+            }
+            static void KiemTraSoTu(string chuoi)
+            {
+                char dauCach = ' ';
+                int count = 0;
+                foreach (var item in chuoi)
+                {
+                    if (item == dauCach)
+                    {
+                        count += 1;
+                    }
+                }
+                Console.WriteLine($"Chuỗi vừa nhập có tất cả {count} từ");
+            }
+            static void SoSanhChuoi(string chuoi)
+            {
+                Console.WriteLine("Nhập một chuỗi mới bất kỳ: ");
+                string chuoiMoi = Console.ReadLine();
+                bool ketQua = chuoi.Equals(chuoiMoi, StringComparison.OrdinalIgnoreCase);
+                if (ketQua)
+                {
+                    Console.WriteLine("Hai chuỗi giống nhau");
+                }
+                else
+                {
+                    Console.WriteLine("Hai chuỗi khác nhau");
+                }
+            }
+            static void DemSoKyTu(string chuoi)
+            {
+                int countNumber = 0;
+                int countText = 0;
+                int countSymbol=0;
+                foreach (var item in chuoi)
+                {
+                    if (Char.IsDigit(item))
+                    {
+                        countNumber++;
+                    }
+                    else if (Char.IsLetter(item))
+                    {
+                        countText++;
+                    }
+                    else
+                    {
+                        countSymbol++;
+                    }
+                }
+                Console.WriteLine($"Chuỗi có {countNumber} ký tự số, {countText} ký tự chữ, {countSymbol} ký tự đặc biệt.");
+            }
+            static void DemPhuAmNguyenAm(string chuoi)
+            {
+                string phuAm = "bcdghklmnpqrstvx";
+                string nguyenAm = "aeiou";
+                foreach (var item in chuoi)
+                {
+                    int count1 = 0;
+                    int count2 = 0;
+                    bool kiemTraNguyenAm = chuoi.Contains(item);
+                    bool kiemTraPhuAm = chuoi.Contains(item);
+                    foreach (var item1 in chuoi)
+                    {
+                        if (kiemTraNguyenAm)
+                        {
+                            count1++;
+                        }
+                        if (kiemTraPhuAm)
+                        {
+                            count2++;
+                        }
+                    }
+                    Console.WriteLine($"Chuỗi vừa nhập có {count1} nguyên âm, {count2} phụ âm");
+                }
+            }
+            static void DemSoKyTuNhieuNhat(string chuoi)
+            {
+                int[] demChuoi = new int[chuoi.Length];
+                char[] chuoiSoSanh = new char[chuoi.Length];
+                int max = 0;
+                int viTri = 0;
+                for (int i = 0; i < chuoi.Length; i++)
+                {
+                    demChuoi[i] = 0;
+                }
+                for (int i = 0; i < chuoiSoSanh.Length; i++)
+                {
+                    for (int j = 0; j < chuoi.Length; j++)
+                    {
+                        bool kiemTra = chuoi.Contains(chuoiSoSanh[j]);
+                        if (!kiemTra)
+                        {
+                            chuoiSoSanh[i] = chuoi[j];
+                        }
+                        else
+                        {
+                            demChuoi[j] += 1;
+                        }
+                    }
+                }
+                for (int i = 0; i < demChuoi.Length; i++)
+                {
+                    if (demChuoi[i] > max)
+                    {
+                        max = demChuoi[i];
+                        viTri = i;
+                    }
+                }
+                Console.WriteLine();
+            }
+        }
     }
 }
