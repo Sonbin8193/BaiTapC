@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "v+IScN2M8esuhO0A8kxDJAHBjR9VEbU7IKjFnXY7lnA1+DoYlFzV0o2VfAL0nksHLcOrwqM+dC5HctoDw9yrFA==",
+  "dgSpecHash": "ffT8rRFhYoW5zZ7zWiJH7CiVnbb5dKHVuuRdF+mBKx5q7VxtG8O8v24Y8roPsJC9v01CTq89DjyMnE789ZIZ+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\HBAcademy\\HBAcademy.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\HBAcademy\\HBAcademy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

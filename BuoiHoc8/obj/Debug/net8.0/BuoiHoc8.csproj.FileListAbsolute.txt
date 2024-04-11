@@ -1,0 +1,15 @@
+C:\Users\sonbi\source\repos\Sonbin8193\BaiTapC\BuoiHoc8\bin\Debug\net8.0\BuoiHoc8.exe
+C:\Users\sonbi\source\repos\Sonbin8193\BaiTapC\BuoiHoc8\bin\Debug\net8.0\BuoiHoc8.deps.json
+C:\Users\sonbi\source\repos\Sonbin8193\BaiTapC\BuoiHoc8\bin\Debug\net8.0\BuoiHoc8.runtimeconfig.json
+C:\Users\sonbi\source\repos\Sonbin8193\BaiTapC\BuoiHoc8\bin\Debug\net8.0\BuoiHoc8.dll
+C:\Users\sonbi\source\repos\Sonbin8193\BaiTapC\BuoiHoc8\bin\Debug\net8.0\BuoiHoc8.pdb
+C:\Users\sonbi\source\repos\Sonbin8193\BaiTapC\BuoiHoc8\obj\Debug\net8.0\BuoiHoc8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonbi\source\repos\Sonbin8193\BaiTapC\BuoiHoc8\obj\Debug\net8.0\BuoiHoc8.AssemblyInfoInputs.cache
+C:\Users\sonbi\source\repos\Sonbin8193\BaiTapC\BuoiHoc8\obj\Debug\net8.0\BuoiHoc8.AssemblyInfo.cs
+C:\Users\sonbi\source\repos\Sonbin8193\BaiTapC\BuoiHoc8\obj\Debug\net8.0\BuoiHoc8.csproj.CoreCompileInputs.cache
+C:\Users\sonbi\source\repos\Sonbin8193\BaiTapC\BuoiHoc8\obj\Debug\net8.0\BuoiHoc8.sourcelink.json
+C:\Users\sonbi\source\repos\Sonbin8193\BaiTapC\BuoiHoc8\obj\Debug\net8.0\BuoiHoc8.dll
+C:\Users\sonbi\source\repos\Sonbin8193\BaiTapC\BuoiHoc8\obj\Debug\net8.0\refint\BuoiHoc8.dll
+C:\Users\sonbi\source\repos\Sonbin8193\BaiTapC\BuoiHoc8\obj\Debug\net8.0\BuoiHoc8.pdb
+C:\Users\sonbi\source\repos\Sonbin8193\BaiTapC\BuoiHoc8\obj\Debug\net8.0\BuoiHoc8.genruntimeconfig.cache
+C:\Users\sonbi\source\repos\Sonbin8193\BaiTapC\BuoiHoc8\obj\Debug\net8.0\ref\BuoiHoc8.dll

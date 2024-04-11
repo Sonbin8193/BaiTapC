@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tD0K7K57o5meUO9Xx4UUNC5Ta/pUAkWhh6wGqXVie3xEkuwfuUwAbByudmPAPxC9yn/rILBEGXwv/0lwyrTYtw==",
+  "dgSpecHash": "OtwAQLyUJw72FXRQAu6xaS+f63A9yVtxZ7VnMLgfNSIhxpZtCfXupyrrwVDvgPh2Sm4Xy0qPUGbpPSiN8VIk2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapString\\BaiTapString.csproj",
+  "projectFilePath": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\BaiTapString\\BaiTapString.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\sonbi\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

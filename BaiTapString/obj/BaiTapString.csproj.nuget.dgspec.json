@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapString\\BaiTapString.csproj": {}
+    "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\BaiTapString\\BaiTapString.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapString\\BaiTapString.csproj": {
+    "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\BaiTapString\\BaiTapString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapString\\BaiTapString.csproj",
+        "projectUniqueName": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\BaiTapString\\BaiTapString.csproj",
         "projectName": "BaiTapString",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapString\\BaiTapString.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapString\\obj\\",
+        "projectPath": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\BaiTapString\\BaiTapString.csproj",
+        "packagesPath": "C:\\Users\\sonbi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\BaiTapString\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sonbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -48,13 +43,13 @@
             "Microsoft.DotNet.ILCompiler": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.3, )",
+              "version": "[8.0.1, )",
               "autoReferenced": true
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.3, )",
+              "version": "[8.0.1, )",
               "autoReferenced": true
             }
           },
@@ -72,7 +67,7 @@
           "downloadDependencies": [
             {
               "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
-              "version": "[8.0.3, 8.0.3]"
+              "version": "[8.0.1, 8.0.1]"
             }
           ],
           "frameworkReferences": {
@@ -80,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
