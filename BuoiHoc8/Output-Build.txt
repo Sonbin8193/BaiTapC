@@ -1,0 +1,6 @@
+﻿Build started at 2:14 PM...
+1>------ Build started: Project: BuoiHoc8, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>BuoiHoc8 -> C:\Users\Admin\source\repos\BaiTapC\BuoiHoc8\bin\Debug\net8.0\BuoiHoc8.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 2:14 PM and took 00.499 seconds ==========

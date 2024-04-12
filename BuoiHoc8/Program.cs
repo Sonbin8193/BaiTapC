@@ -7,7 +7,7 @@ namespace BuoiHoc8
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            BaiTap.BaiTap5();
+            BaiTap.BaiTap8();
         }
     }
 }

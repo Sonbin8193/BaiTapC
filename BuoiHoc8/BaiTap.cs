@@ -55,7 +55,6 @@ namespace BuoiHoc8
                 Console.WriteLine();
             }
         }
-
         public static void BaiTap5()
         {
             Stack<int> soChan = new Stack<int>();
@@ -114,15 +113,65 @@ namespace BuoiHoc8
             Console.WriteLine("Nhập một số nguyên N bất kỳ: ");
             int doDaiQueue = int.Parse(Console.ReadLine());
             Queue<int> daySo = new Queue<int>(doDaiQueue);
+
+            Console.WriteLine($"Dãy số Nhị Phân từ 1 đến {doDaiQueue}: ");
             for (int i = 1; i <= doDaiQueue; i++)
             {
                 daySo.Enqueue(i);
             }
-            int DecToBin(int a)
+            for (int i = 0; i < doDaiQueue; i++)
             {
-
-                return a;
+                int xuLySo = daySo.Dequeue();
+                Console.WriteLine( i+1 +" -> " + DecToBin(xuLySo));
             }
+            string DecToBin(int a)
+            {
+                string b= Convert.ToString(a, 2).PadLeft(8,'0');
+                return b;
+            }
+        }
+        public static void BaiTap7()
+        {
+            Queue<int> soThuTu = new Queue<int>(100);
+            Queue<string> danhSachHangCho = new Queue<string>();
+            List<string> tenKhachHang = new List<string>();
+            tenKhachHang.AddRange(new string[] { "Lan", "Hùng", "Phương", "Hoa", "Long", "Huy", "Phúc" });
+            for (int i = 0; i < tenKhachHang.Count; i++)
+            {
+                soThuTu.Enqueue(i);
+                danhSachHangCho.Enqueue(tenKhachHang[i]);
+            }
+            //Kiểm tra hàng chờ
+            Console.WriteLine("Nhập tên khách hàng cần tìm");
+            string ten = Console.ReadLine();
+            if (tenKhachHang.IndexOf(ten) !=-1)
+            {
+                Console.WriteLine($"Khách hàng {ten} đang xếp hàng vị trí thứ {tenKhachHang.IndexOf(ten) + 1}");
+            } else
+            {
+                Console.WriteLine("Khách hàng không có tên trong hàng chờ");
+            }
+        }
+        public static void BaiTap8()
+        {
+            Dictionary<string, string> danhBaDienThoai = new Dictionary<string, string>();
+            danhBaDienThoai.Add("09277621", "An");
+            danhBaDienThoai.Add("09277622", "Bình");
+            danhBaDienThoai.Add("09277623", "Duy");
+            danhBaDienThoai.Add("09277624", "Hùng");
+            danhBaDienThoai.Add("09277625", "Phương");
+            danhBaDienThoai.Add("09277626", "Thảo");
+            danhBaDienThoai.Add("09277627", "Hoa");
+            danhBaDienThoai.Add("09277628", "Huy");
+            if (danhBaDienThoai.TryGetValue("09277628", out string ten))
+            {
+                Console.WriteLine($"Số điện thoại của {ten} có trong danh bạ");
+            }
+            foreach (var item in danhBaDienThoai)
+            {
+                Console.WriteLine($"{item.Key} : {item.Value}");
+            }
+            danhBaDienThoai.Clear();
         }
     }
 }
