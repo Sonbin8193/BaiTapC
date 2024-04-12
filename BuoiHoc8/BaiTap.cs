@@ -9,6 +9,7 @@ namespace BuoiHoc8
 {
     public class BaiTap
     {
+        //Tạo Stack
         public static void BaiTapStack()
         {
             Stack<string> congViec = new Stack<string>();
@@ -28,7 +29,7 @@ namespace BuoiHoc8
             congViec.Pop();
             congViec.Clear();
         }
-
+        //Tạo danh sách đến lớp
         public static void BaiTap4()
         {
           
@@ -55,6 +56,7 @@ namespace BuoiHoc8
                 Console.WriteLine();
             }
         }
+        //Chia số chẵn và số lẻ
         public static void BaiTap5()
         {
             Stack<int> soChan = new Stack<int>();
@@ -67,7 +69,7 @@ namespace BuoiHoc8
             {
                 goto hienthi;
             }
-            if (IsNumber(soDaNhap))
+            else if (IsNumber(soDaNhap))
             {
                 int soDaNhap_int = int.Parse(soDaNhap);
                 if (soDaNhap_int%2 ==0)
@@ -108,6 +110,7 @@ namespace BuoiHoc8
                 return true;
             }
         }
+        //Nhập số và in ra số nhị phân
         public static void BaiTap6()
         {
             Console.WriteLine("Nhập một số nguyên N bất kỳ: ");
@@ -130,15 +133,16 @@ namespace BuoiHoc8
                 return b;
             }
         }
+        //Danh sách khách hàng đợi
         public static void BaiTap7()
         {
-            Queue<int> soThuTu = new Queue<int>(100);
+            Stack<int> soThuTu = new Stack<int>(100);
             Queue<string> danhSachHangCho = new Queue<string>();
             List<string> tenKhachHang = new List<string>();
             tenKhachHang.AddRange(new string[] { "Lan", "Hùng", "Phương", "Hoa", "Long", "Huy", "Phúc" });
             for (int i = 0; i < tenKhachHang.Count; i++)
             {
-                soThuTu.Enqueue(i);
+                soThuTu.Push(i);
                 danhSachHangCho.Enqueue(tenKhachHang[i]);
             }
             //Kiểm tra hàng chờ
@@ -152,6 +156,7 @@ namespace BuoiHoc8
                 Console.WriteLine("Khách hàng không có tên trong hàng chờ");
             }
         }
+        //Nhập danh bạ
         public static void BaiTap8()
         {
             Dictionary<string, string> danhBaDienThoai = new Dictionary<string, string>();

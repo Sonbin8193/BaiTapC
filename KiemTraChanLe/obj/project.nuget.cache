@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NcH1Z3TOdwW4Gdtn5C8d01T1GJhuixFTC8KxGoD4nXNocT3jhgKFxnmrs8s1jjO6ifnZJPxpapnsWKCD/nCdOw==",
+  "dgSpecHash": "vudomUWVDImr69Fato2UCp97aR5aekXZcHCn8jnrbHosbSq6+fmh0W5lbOaXAU6IWW5MnGvqlxGTetZsdX57cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\KiemTraChanLe\\KiemTraChanLe.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "projectFilePath": "E:\\BaiTapC\\KiemTraChanLe\\KiemTraChanLe.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

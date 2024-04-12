@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ffT8rRFhYoW5zZ7zWiJH7CiVnbb5dKHVuuRdF+mBKx5q7VxtG8O8v24Y8roPsJC9v01CTq89DjyMnE789ZIZ+Q==",
+  "dgSpecHash": "1t6j8PVDq4WM5yhtlH54cJyDcRie7V8iyYPAZ6+TbbII+OOZcCrVKN+CDA7IuuTJj1XyDc2l5XUeajAGQiQryQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\HBAcademy\\HBAcademy.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\sonbi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "projectFilePath": "E:\\BaiTapC\\HBAcademy\\HBAcademy.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

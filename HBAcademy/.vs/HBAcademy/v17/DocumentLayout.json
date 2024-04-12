@@ -1,7 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\HBAcademy\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\BaiTapC\\HBAcademy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E7EA68-ECDA-46B3-903A-CFB00C98C765}|..\\BuoiHoc9\\BuoiHoc9.csproj|e:\\baitapc\\buoihoc9\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E7EA68-ECDA-46B3-903A-CFB00C98C765}|..\\BuoiHoc9\\BuoiHoc9.csproj|e:\\baitapc\\buoihoc9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +16,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaiTap.cs",
+              "DocumentMoniker": "E:\\BaiTapC\\BuoiHoc9\\BaiTap.cs",
+              "RelativeDocumentMoniker": "..\\BuoiHoc9\\BaiTap.cs",
+              "ToolTip": "E:\\BaiTapC\\BuoiHoc9\\BaiTap.cs",
+              "RelativeToolTip": "..\\BuoiHoc9\\BaiTap.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA0wEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:03:38.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BaiTapC\\BuoiHoc9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BuoiHoc9\\Program.cs",
+              "ToolTip": "E:\\BaiTapC\\BuoiHoc9\\Program.cs",
+              "RelativeToolTip": "..\\BuoiHoc9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:02:14.271Z",
+              "EditorCaption": ""
             }
           ]
         }
