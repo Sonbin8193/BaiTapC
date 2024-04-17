@@ -106,19 +106,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sonbi\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\BaiTapC\\BaiTapString\\BaiTapString.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapString\\BaiTapString.csproj",
       "projectName": "BaiTapString",
-      "projectPath": "E:\\BaiTapC\\BaiTapString\\BaiTapString.csproj",
-      "packagesPath": "C:\\Users\\sonbi\\.nuget\\packages\\",
-      "outputPath": "E:\\BaiTapC\\BaiTapString\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapString\\BaiTapString.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapString\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sonbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

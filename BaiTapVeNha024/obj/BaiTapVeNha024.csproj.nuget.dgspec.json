@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BaiTapC\\BaiTapVeNha024\\BaiTapVeNha024.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapVeNha024\\BaiTapVeNha024.csproj": {}
   },
   "projects": {
-    "E:\\BaiTapC\\BaiTapVeNha024\\BaiTapVeNha024.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapVeNha024\\BaiTapVeNha024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BaiTapC\\BaiTapVeNha024\\BaiTapVeNha024.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapVeNha024\\BaiTapVeNha024.csproj",
         "projectName": "BaiTapVeNha024",
-        "projectPath": "E:\\BaiTapC\\BaiTapVeNha024\\BaiTapVeNha024.csproj",
-        "packagesPath": "C:\\Users\\sonbi\\.nuget\\packages\\",
-        "outputPath": "E:\\BaiTapC\\BaiTapVeNha024\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapVeNha024\\BaiTapVeNha024.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapVeNha024\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sonbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

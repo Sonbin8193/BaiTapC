@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BaiTapC\\KiemTraChanLe\\KiemTraChanLe.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\BaiTapC\\KiemTraChanLe\\KiemTraChanLe.csproj": {}
   },
   "projects": {
-    "E:\\BaiTapC\\KiemTraChanLe\\KiemTraChanLe.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\BaiTapC\\KiemTraChanLe\\KiemTraChanLe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BaiTapC\\KiemTraChanLe\\KiemTraChanLe.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\KiemTraChanLe\\KiemTraChanLe.csproj",
         "projectName": "KiemTraChanLe",
-        "projectPath": "E:\\BaiTapC\\KiemTraChanLe\\KiemTraChanLe.csproj",
-        "packagesPath": "C:\\Users\\sonbi\\.nuget\\packages\\",
-        "outputPath": "E:\\BaiTapC\\KiemTraChanLe\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\KiemTraChanLe\\KiemTraChanLe.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\KiemTraChanLe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sonbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sonbi\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\BaiTapC\\BuoiHoc9\\BuoiHoc9.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc9\\BuoiHoc9.csproj",
       "projectName": "BuoiHoc9",
-      "projectPath": "E:\\BaiTapC\\BuoiHoc9\\BuoiHoc9.csproj",
-      "packagesPath": "C:\\Users\\sonbi\\.nuget\\packages\\",
-      "outputPath": "E:\\BaiTapC\\BuoiHoc9\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc9\\BuoiHoc9.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sonbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

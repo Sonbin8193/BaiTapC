@@ -68,5 +68,56 @@ namespace BuoiHoc10
     }
     // Cho 1 mảng có 100 số nguyên từ 1000 đến 5001, tìm số xuất hiện ít nhất & nhiều nhất
     // Viết 1 hàm tên gồm họ và tên. Viết hàm sắp xếp theo bảng chữ cái
+    public class BaiTap2()
+    {
+        public static void TaoDanhSachLop()
+        {
+            Console.OutputEncoding = Encoding.UTF8;
+            List<string> danhSachLop = new List<string>();
+        nhaplai:
+            Console.WriteLine("Nhập tên các thành viên trong lớp(ấn 'end' để kết thúc): ");
+            string tenThanhVien = Console.ReadLine();
+           Console.Clear();
+            if (tenThanhVien != "end")
+            {
+                danhSachLop.Add(tenThanhVien);
+                goto nhaplai;
+            }
+            else
+            {
+                Console.WriteLine("Danh sách lớp sau khi đã sắp xếp: ");
+                ThemDuLieu(danhSachLop);
+            }
+        }
+        static void ThemDuLieu(List<string> nameList)
+        {
+            Console.OutputEncoding = Encoding.UTF8;
+            List<string> names = nameList;
+            names.Sort((name1, name2) => {
+                var array1 = name1.Split(" ");
+                var array2 = name2.Split(" ");
+                if (array1[array1.Length - 1] == array2[array2.Length - 1])
+                {
+                    if (array1[array1.Length - 2] == array2[array2.Length - 2])
+                    {
+                        return array1[0].CompareTo(array2[0]);
+                    }
+                    else
+                    {
+                        return array1[array1.Length - 2].CompareTo(array2[array2.Length - 2]);
+                    }
+                }
+                else
+                {
+                    return array1[array1.Length - 1].CompareTo(array2[array2.Length - 1]);
+                }
+            });
+            foreach (var name in names)
+            {
+                Console.WriteLine(name);
+            }
+        }
+    }
 }
+
 
