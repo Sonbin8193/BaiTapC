@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\BaiTapC\\ThongTinLopHoc\\ThongTinLopHoc.csproj": {}
+    "E:\\BaiTapC\\ThongTinLopHoc\\ThongTinLopHoc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\BaiTapC\\ThongTinLopHoc\\ThongTinLopHoc.csproj": {
+    "E:\\BaiTapC\\ThongTinLopHoc\\ThongTinLopHoc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\ThongTinLopHoc\\ThongTinLopHoc.csproj",
+        "projectUniqueName": "E:\\BaiTapC\\ThongTinLopHoc\\ThongTinLopHoc.csproj",
         "projectName": "ThongTinLopHoc",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\ThongTinLopHoc\\ThongTinLopHoc.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\ThongTinLopHoc\\obj\\",
+        "projectPath": "E:\\BaiTapC\\ThongTinLopHoc\\ThongTinLopHoc.csproj",
+        "packagesPath": "C:\\Users\\sonbi\\.nuget\\packages\\",
+        "outputPath": "E:\\BaiTapC\\ThongTinLopHoc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sonbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

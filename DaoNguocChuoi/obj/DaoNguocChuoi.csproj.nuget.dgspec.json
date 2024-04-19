@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\BaiTapC\\DaoNguocChuoi\\DaoNguocChuoi.csproj": {}
+    "E:\\BaiTapC\\DaoNguocChuoi\\DaoNguocChuoi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\BaiTapC\\DaoNguocChuoi\\DaoNguocChuoi.csproj": {
+    "E:\\BaiTapC\\DaoNguocChuoi\\DaoNguocChuoi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\DaoNguocChuoi\\DaoNguocChuoi.csproj",
+        "projectUniqueName": "E:\\BaiTapC\\DaoNguocChuoi\\DaoNguocChuoi.csproj",
         "projectName": "DaoNguocChuoi",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\DaoNguocChuoi\\DaoNguocChuoi.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\DaoNguocChuoi\\obj\\",
+        "projectPath": "E:\\BaiTapC\\DaoNguocChuoi\\DaoNguocChuoi.csproj",
+        "packagesPath": "C:\\Users\\sonbi\\.nuget\\packages\\",
+        "outputPath": "E:\\BaiTapC\\DaoNguocChuoi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sonbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

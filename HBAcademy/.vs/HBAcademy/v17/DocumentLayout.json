@@ -1,12 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\HBAcademy\\",
+  "WorkspaceRootPath": "E:\\BaiTapC\\HBAcademy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90E53122-A82A-43D7-9EBF-4A1E9AA464CF}|..\\BuoiHoc10\\BuoiHoc10.csproj|c:\\users\\admin\\source\\repos\\baitapc\\buoihoc10\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90E53122-A82A-43D7-9EBF-4A1E9AA464CF}|..\\BuoiHoc10\\BuoiHoc10.csproj|c:\\users\\admin\\source\\repos\\baitapc\\buoihoc10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BF5F4B4-3893-4610-A3D9-C8478A0DB7C5}|..\\BuoiHoc11\\BuoiHoc11.csproj|e:\\baitapc\\buoihoc11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,36 +13,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc10\\Program.cs",
-              "RelativeDocumentMoniker": "..\\BuoiHoc10\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc10\\Program.cs",
-              "RelativeToolTip": "..\\BuoiHoc10\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:03:38.739Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BaiTap.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc10\\BaiTap.cs",
-              "RelativeDocumentMoniker": "..\\BuoiHoc10\\BaiTap.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc10\\BaiTap.cs",
-              "RelativeToolTip": "..\\BuoiHoc10\\BaiTap.cs",
-              "ViewState": "AQIAAFgAAAAAAAAAAAAowFIAAAAuAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BaiTapC\\BuoiHoc11\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BuoiHoc11\\Program.cs",
+              "ToolTip": "E:\\BaiTapC\\BuoiHoc11\\Program.cs",
+              "RelativeToolTip": "..\\BuoiHoc11\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:56:55.59Z",
+              "WhenOpened": "2024-04-17T12:18:56.337Z",
               "EditorCaption": ""
             }
           ]

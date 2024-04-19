@@ -6,7 +6,8 @@ namespace BuoiHoc10
     {
         public static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Console.InputEncoding = System.Text.Encoding.UTF8;
             BaiTap2.TaoDanhSachLop();
         }
     }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapStruct\\BaiTapStruct.csproj": {}
+    "E:\\BaiTapC\\BaiTapStruct\\BaiTapStruct.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapStruct\\BaiTapStruct.csproj": {
+    "E:\\BaiTapC\\BaiTapStruct\\BaiTapStruct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapStruct\\BaiTapStruct.csproj",
+        "projectUniqueName": "E:\\BaiTapC\\BaiTapStruct\\BaiTapStruct.csproj",
         "projectName": "BaiTapStruct",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapStruct\\BaiTapStruct.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BaiTapStruct\\obj\\",
+        "projectPath": "E:\\BaiTapC\\BaiTapStruct\\BaiTapStruct.csproj",
+        "packagesPath": "C:\\Users\\sonbi\\.nuget\\packages\\",
+        "outputPath": "E:\\BaiTapC\\BaiTapStruct\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sonbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
