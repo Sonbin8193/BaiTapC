@@ -6,18 +6,23 @@ namespace BuoiHoc12
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
-            NhanVien x = new NhanVien();
-            x._name = "Sơn";
-            x.Set_date("12/05/2023");
-            Console.WriteLine(x.Get_date());
-            //Tạo 10 nhân viên
-            NhanVien[] array_NhanVien = new NhanVien[10];
-            array_NhanVien[1] = new NhanVien { .Set_date("12/05/2023") };
-            array_NhanVien[3] = new NhanVien { _name = "Hoàng" };
-            array_NhanVien[0] = x;
-            Console.WriteLine(array_NhanVien[1]._name);
-            Console.WriteLine(array_NhanVien[1].Get_date());
+            //Console.OutputEncoding = Encoding.UTF8;
+            //SinhVien SV1 = new SinhVien();
+            //SV1._name = "Phạm Giang Sơn";
+            //SV1._diemToan = SV1.NhapDiem();
+            //SV1._diemHoa = SV1.NhapDiem();
+            //SV1._diemLy = SV1.NhapDiem();
+            //Console.WriteLine($"Sinh Viên {SV1._name} có điểm Toán = {SV1._diemToan}, điểm Lý = {SV1._diemLy}, điểm Hóa = {SV1._diemHoa}");
+            //Console.WriteLine($"Xếp loại học lực {SV1.XetHocLuc(SV1.DiemTrungBinh(out int diemTongKet))}");
+
+            Point diemA = new Point();
+            diemA.NhapToaDo(2, 11, 9);
+            Point diemB = new Point();
+            diemB.NhapToaDo(15, 12, 3);
+            Console.WriteLine(diemA.TinhTheTich(0, diemA._toaDoX, diemA._toaDoY, diemA._toaDoZ));
+            Console.WriteLine(diemA.TinhTheTich(Point.TinhKhoangCach(diemA._toaDoX,0,diemA._toaDoY,0,diemA._toaDoZ,0),diemA._toaDoX, diemA._toaDoY, diemA._toaDoZ));
+            Console.WriteLine($"Khoảng cách giữa 2 điểm A và B là: {Point.TinhKhoangCach(diemA._toaDoX, diemB._toaDoX, diemA._toaDoY, diemB._toaDoY, diemA._toaDoZ, diemB._toaDoZ)}");
+            Console.WriteLine();
         }
     }
 }

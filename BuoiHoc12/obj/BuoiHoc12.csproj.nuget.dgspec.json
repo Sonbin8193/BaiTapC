@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BaiTapC\\BuoiHoc12\\BuoiHoc12.csproj": {}
+    "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\BuoiHoc12\\BuoiHoc12.csproj": {}
   },
   "projects": {
-    "E:\\BaiTapC\\BuoiHoc12\\BuoiHoc12.csproj": {
+    "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\BuoiHoc12\\BuoiHoc12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BaiTapC\\BuoiHoc12\\BuoiHoc12.csproj",
+        "projectUniqueName": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\BuoiHoc12\\BuoiHoc12.csproj",
         "projectName": "BuoiHoc12",
-        "projectPath": "E:\\BaiTapC\\BuoiHoc12\\BuoiHoc12.csproj",
+        "projectPath": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\BuoiHoc12\\BuoiHoc12.csproj",
         "packagesPath": "C:\\Users\\sonbi\\.nuget\\packages\\",
-        "outputPath": "E:\\BaiTapC\\BuoiHoc12\\obj\\",
+        "outputPath": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\BuoiHoc12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sonbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
