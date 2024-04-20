@@ -4,7 +4,7 @@ using System.Xml.Linq;
 namespace BuoiHoc11
 {   
     internal class Program
-    {   //Tạo danh sách lớp và sắp xếp theo các phương pháp sắp xếp đã học
+    {   //Bài 1: Tạo danh sách lớp và sắp xếp theo các phương pháp sắp xếp đã học
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;

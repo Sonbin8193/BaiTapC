@@ -3,7 +3,10 @@
   "WorkspaceRootPath": "E:\\BaiTapC\\HBAcademy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BF5F4B4-3893-4610-A3D9-C8478A0DB7C5}|..\\BuoiHoc11\\BuoiHoc11.csproj|e:\\baitapc\\buoihoc11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C347674-CC51-4D5F-9015-B4D6DE30DA6A}|..\\BuoiHoc12\\BuoiHoc12.csproj|e:\\baitapc\\buoihoc12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C347674-CC51-4D5F-9015-B4D6DE30DA6A}|..\\BuoiHoc12\\BuoiHoc12.csproj|e:\\baitapc\\buoihoc12\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,19 +16,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaiTap.cs",
+              "DocumentMoniker": "E:\\BaiTapC\\BuoiHoc12\\BaiTap.cs",
+              "RelativeDocumentMoniker": "..\\BuoiHoc12\\BaiTap.cs",
+              "ToolTip": "E:\\BaiTapC\\BuoiHoc12\\BaiTap.cs",
+              "RelativeToolTip": "..\\BuoiHoc12\\BaiTap.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:36:11.229Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\BaiTapC\\BuoiHoc11\\Program.cs",
-              "RelativeDocumentMoniker": "..\\BuoiHoc11\\Program.cs",
-              "ToolTip": "E:\\BaiTapC\\BuoiHoc11\\Program.cs",
-              "RelativeToolTip": "..\\BuoiHoc11\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentMoniker": "E:\\BaiTapC\\BuoiHoc12\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BuoiHoc12\\Program.cs",
+              "ToolTip": "E:\\BaiTapC\\BuoiHoc12\\Program.cs",
+              "RelativeToolTip": "..\\BuoiHoc12\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAEwA8AAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T12:18:56.337Z",
+              "WhenOpened": "2024-04-19T12:35:51.774Z",
               "EditorCaption": ""
             }
           ]

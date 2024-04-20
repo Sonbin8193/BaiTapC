@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc11\\BuoiHoc11.csproj": {}
+    "E:\\BaiTapC\\BuoiHoc11\\BuoiHoc11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc11\\BuoiHoc11.csproj": {
+    "E:\\BaiTapC\\BuoiHoc11\\BuoiHoc11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc11\\BuoiHoc11.csproj",
+        "projectUniqueName": "E:\\BaiTapC\\BuoiHoc11\\BuoiHoc11.csproj",
         "projectName": "BuoiHoc11",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc11\\BuoiHoc11.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc11\\obj\\",
+        "projectPath": "E:\\BaiTapC\\BuoiHoc11\\BuoiHoc11.csproj",
+        "packagesPath": "C:\\Users\\sonbi\\.nuget\\packages\\",
+        "outputPath": "E:\\BaiTapC\\BuoiHoc11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sonbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
