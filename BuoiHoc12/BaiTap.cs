@@ -102,7 +102,7 @@ namespace BuoiHoc12
             return Math.Sqrt(Math.Pow(a1-a2,2) + Math.Pow(b1 - b2, 2) + Math.Pow(c1 - c2, 2));
         }
 
-        public double TinhTheTich(double i,double a, double b, double c)
+        public double TinhTheTich(double i,int a, int b, int c)
         {
             if (i>0)
             {

@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuoiHoc10", "..\BuoiHoc10\B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuoiHoc11", "..\BuoiHoc11\BuoiHoc11.csproj", "{2BF5F4B4-3893-4610-A3D9-C8478A0DB7C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuoiHoc12", "..\BuoiHoc12\BuoiHoc12.csproj", "{2C347674-CC51-4D5F-9015-B4D6DE30DA6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuoiHoc12", "..\BuoiHoc12\BuoiHoc12.csproj", "{2C347674-CC51-4D5F-9015-B4D6DE30DA6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuoiHoc13", "..\BuoiHoc13\BuoiHoc13.csproj", "{6F9EADEE-A243-4258-9329-F66FC8F798B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{2C347674-CC51-4D5F-9015-B4D6DE30DA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C347674-CC51-4D5F-9015-B4D6DE30DA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C347674-CC51-4D5F-9015-B4D6DE30DA6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9EADEE-A243-4258-9329-F66FC8F798B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9EADEE-A243-4258-9329-F66FC8F798B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9EADEE-A243-4258-9329-F66FC8F798B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9EADEE-A243-4258-9329-F66FC8F798B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

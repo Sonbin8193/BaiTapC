@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\BuoiHoc12\\BuoiHoc12.csproj",
+      "projectUniqueName": "E:\\BaiTapC\\BuoiHoc12\\BuoiHoc12.csproj",
       "projectName": "BuoiHoc12",
-      "projectPath": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\BuoiHoc12\\BuoiHoc12.csproj",
+      "projectPath": "E:\\BaiTapC\\BuoiHoc12\\BuoiHoc12.csproj",
       "packagesPath": "C:\\Users\\sonbi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sonbi\\source\\repos\\Sonbin8193\\BaiTapC\\BuoiHoc12\\obj\\",
+      "outputPath": "E:\\BaiTapC\\BuoiHoc12\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sonbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
