@@ -62,21 +62,21 @@ namespace BuoiHoc14
         public string DiaChi { get => diaChi; set => diaChi = value; }
         public virtual void PutInfo()
         {
-            Console.WriteLine("Xin mời nhập tên của bạn: ");
+            Console.WriteLine("Xin mời nhập tên sinh viên: ");
             HoTen = Console.ReadLine();
-            Console.WriteLine("Xin mời nhập ngày sinh của bạn: ");
+            Console.WriteLine("Xin mời nhập ngày sinh: ");
             NgaySinh = Console.ReadLine();
-            Console.WriteLine("Xin mời nhập giới tính của bạn: ");
+            Console.WriteLine("Xin mời nhập giới tính: ");
             GioiTinh = Console.ReadLine();
-            Console.WriteLine("Nhập địa chỉ của bạn: ");
+            Console.WriteLine("Nhập địa chỉ: ");
             DiaChi = Console.ReadLine();
         }
         public virtual void ShowInfo()
         {
-            Console.WriteLine("Tên của bạn là {0}", HoTen);
-            Console.WriteLine("Ngày sinh của bạn là {0}", NgaySinh);
-            Console.WriteLine("Giới tính của bạn là {0}", GioiTinh);
-            Console.WriteLine("Địa chỉ của bạn là {0}", DiaChi);
+            Console.WriteLine("Sinh viên {0} có các thông tin sau: ", HoTen);
+            Console.WriteLine("Ngày sinh: {0}", NgaySinh);
+            Console.WriteLine("Giới tính: {0}", GioiTinh);
+            Console.WriteLine("Địa chỉ: {0}", DiaChi);
         }
     }
     public class Student : Person
@@ -93,39 +93,36 @@ namespace BuoiHoc14
             base.PutInfo();
         nhapid:
             Console.WriteLine("Nhập ID của bạn: ");
-            //Console.Clear();
             Id = Console.ReadLine();
             if (Id.Length > 9)
             {
-                Console.WriteLine("Xin mời nhập lại");
+                Console.WriteLine("Xin mời nhập lại(ID bao gồm 8 chữ số)");
                 goto nhapid;
             }
         nhapdtb:
             Console.WriteLine("Nhập điểm trung bình của bạn: ");
-            //Console.Clear();
             PointAverage = Console.ReadLine();
             int Int_PointAverage = int.Parse(PointAverage);
             if (Int_PointAverage < 0 || Int_PointAverage > 10)
             {
-                Console.WriteLine("Xin mời nhập lại");
+                Console.WriteLine("Xin mời nhập lại điểm trong khoảng 0-10");
                 goto nhapdtb;
             }
         nhapemail:
             Console.WriteLine("Nhập email của bạn: ");
-            //Console.Clear();
             Email = Console.ReadLine();
             if (!Email.Contains('@'))
             {
-                Console.WriteLine("Xin mời nhập lại");
+                Console.WriteLine("Xin mời nhập lại đúng định dạng email");
                 goto nhapemail;
             }
         }
         public override void ShowInfo()
         {
             base.ShowInfo();
-            Console.WriteLine("ID của bạn là {0}", Id);
-            Console.WriteLine("Điểm của bạn là {0}", PointAverage);
-            Console.WriteLine("Email của bạn là {0}", Email);
+            Console.WriteLine("ID:  {0}", Id);
+            Console.WriteLine("Điểm: {0}", PointAverage);
+            Console.WriteLine("Email: {0}", Email);
         }
         public bool XetHocBong(int point)
         {

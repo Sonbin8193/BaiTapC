@@ -2,63 +2,113 @@
 
 namespace BuoiHoc14
 {
-    internal class Program
+    internal class StudentTest
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
-            //Person person1 = new Student();
-            //person1.PutInfo();
-            //person1.ShowInfo();
-
-            //Student student = new Student();
-            //student.PutInfo();
-            //student.ShowInfo();
-            //int point = int.Parse(student.PointAverage);
-            //student.XetHocBong(point);
-
-
+            Console.InputEncoding = System.Text.Encoding.UTF8;
             List<Student> students = new List<Student>();
-            for (int i = 0; i < 5; i++)
-            {
-                students.Add(new Student());
-                students[i].PutInfo();
+            chonlai:
+            Console.WriteLine("Vui lòng chọn 1 trong các mục dưới đây: ");
+            Console.WriteLine("1. Nhập thông tin cho sinh viên: ");
+            chontiep:
+            Console.WriteLine("2. Hiển thị thông tin các sinh viên đã nhập");
+            Console.WriteLine("3. Hiển thị sinh viên có điểm trung bình cao nhất và thấp nhất");
+            Console.WriteLine("4. Tìm kiếm sinh viên theo ID");
+            Console.WriteLine("5. Sắp xếp lại tên sinh viên theo bảng chữ cái");
+            Console.WriteLine("6. Hiển thị tên các sinh viên được nhận học bổng từ cao đến thấp");
+            Console.WriteLine("Ấn \"0\" để thoát chương trình");
+            string menuChon = Console.ReadLine();
+
+            switch (menuChon){
+                case "0":
+                    Console.Clear();
+                    Console.WriteLine("Kết thúc...");
+                    Console.ReadLine();
+                    break;
+                case "1":
+                    Console.WriteLine("Nhập số lượng sinh viên cần tạo: ");
+                    int N = int.Parse(Console.ReadLine());
+                    NhapDuLieuSinhVien(N, students);
+                    Console.ReadLine();
+                    Console.Clear();
+                    goto chontiep;;
+                case "2":
+                    HienThiDuLieuSinhVien(students);
+                    Console.ReadLine();
+                    Console.Clear();
+                    goto chontiep;
+                case "3":
+                    TimDiemCaoNhatVaThapNhat(students);
+                    Console.ReadLine();
+                    Console.Clear();
+                    goto chontiep;
+                case "4":
+                    TimSinhVien(students);
+                    Console.ReadLine();
+                    Console.Clear();
+                    goto chontiep;
+                case "5":
+                    XepDanhSach(students);
+                    Console.ReadLine();
+                    Console.Clear();
+                    goto chontiep;
+                case "6":
+                    XepDanhSachHocBong(students);
+                    Console.ReadLine();
+                    Console.Clear();
+                    goto chontiep;
+                default:
+                    Console.Clear();
+                    Console.WriteLine("Xin mời chọn lại đúng số trong menu");
+                    goto chonlai;
             }
-            foreach (var item in students)
+
+            static void NhapDuLieuSinhVien(int n, List<Student> _students)
             {
-                item.ShowInfo();
-            }
-            int diemMax = 0;
-            int diemMin = 0;
-            for (int i = 0; i < 5; i++)
-            {
-                if (diemMax> int.Parse(students[i].PointAverage))
+                for (int i = 0; i < n; i++)
                 {
-                    diemMax = int.Parse(students[i].PointAverage);
-                }
-                if (diemMin < int.Parse(students[i].PointAverage))
-                {
-                    diemMin = int.Parse(students[i].PointAverage);
+                    _students.Add(new Student());
+                    _students[i].PutInfo();
                 }
             }
-            static void TimSinhVien(Student[] a)
+
+            static void HienThiDuLieuSinhVien(List<Student> _student)
+            {
+                foreach (var item in _student)
+                {
+                    item.ShowInfo();
+                }
+            }
+
+            static void TimDiemCaoNhatVaThapNhat(List<Student> _student)
+            {
+                List<Student> studentList = _student;
+                studentList.Sort((name1, name2) => { return name1.PointAverage.CompareTo(name2.PointAverage); });
+                Console.WriteLine("Điểm cao nhất là {} thuộc về sinh viên {}", studentList[studentList.Count - 1].PointAverage, studentList[studentList.Count - 1].HoTen);
+                Console.WriteLine("Điểm thấp nhất là {} thuộc về sinh viên {}", studentList[0].PointAverage, studentList[0].HoTen);
+            }
+
+            static void TimSinhVien(List<Student> _student)
             {
                 Console.WriteLine("Nhập mã sinh viên bạn muốn tìm: ");
                 string maSV = Console.ReadLine();
                 for (int i = 0; i < 5; i++)
                 {
-                    if (maSV.Contains(a[i].Id))
+                    if (maSV.Contains(_student[i].Id))
                     {
-                        Console.WriteLine("Mã sinh viên {0} là của sinh viên {1}", a[i].Id, a[i].HoTen);
+                        Console.WriteLine("Mã sinh viên {0} là của sinh viên {1}", _student[i].Id, _student[i].HoTen);
                     }
                 }
             }
-            static void XepDanhSach(Student[] a)
+
+            static void XepDanhSach(List<Student> _student)
             {
                 List<Student> namesList = new List<Student>();
                 for (int i = 0; i < 5; i++)
                 {
-                    namesList.Add(a[i]);
+                    namesList.Add(_student[i]);
                 }
                 namesList.Sort((name1, name2) => {
                     var array1 = name1.HoTen.Split(" ");
@@ -84,14 +134,15 @@ namespace BuoiHoc14
                     name.ShowInfo();
                 }
             }
-            static void XepDanhSachHocBong(Student[] a)
+
+            static void XepDanhSachHocBong(List<Student> _student)
             {
                 List<Student> namesList = new List<Student>();
-                for (int i = 0; i < 5; i++)
+                for (int i = 0; i < namesList.Count; i++)
                 {
-                    if (a[i].XetHocBong(int.Parse(a[i].PointAverage)))
+                    if (_student[i].XetHocBong(int.Parse(_student[i].PointAverage)))
                     {
-                        namesList.Add(a[i]);
+                        namesList.Add(_student[i]);
                     }
                 }
                 namesList.Sort((name1, name2) => { return name1.PointAverage.CompareTo(name2.PointAverage); });
