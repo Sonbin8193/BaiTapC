@@ -25,11 +25,22 @@ namespace BuoiHoc13
             Person.FuncDelegate personSalary = new Person.FuncDelegate(NV1.TangLuong);
             Person.ActionDelegate personHello = new Person.ActionDelegate(NV1.HienThiTen);
             Person.PredicateDelegate personGender = new Person.PredicateDelegate(NV1.KiemTraGioiTinh);
-            Console.WriteLine("Thưởng của {0} là {1}",NV1.Name1,personSalary(NV1.Salary1,out double thuong));
+            Console.WriteLine("Thưởng của {0} là {1}", NV1.Name1, personSalary(NV1.Salary1, out double thuong));
             personHello(NV1.Name1);
-            string gioitinh = personGender(NV1.Gender)?"nam":"nữ";
+            string gioitinh = personGender(NV1.Gender) ? "nam" : "nữ";
             Console.WriteLine("Bạn là {0}", gioitinh);
-            ~Person.NV1;
+
+            HoVaTen Person1 = new HoVaTen 
+            {
+                Ho = "PhạM",
+                TenDem = "GIanG",
+                Ten = "sƠN"
+            };
+            HoVaTen.NameDelegate hienThiTen = new HoVaTen.NameDelegate(Person1.HienThiTen);
+            Console.WriteLine("Tên của bạn là {0}",hienThiTen(1,Person1.Ho,Person1.TenDem,Person1.Ten));
+            Console.WriteLine("Tên của bạn là {0}", hienThiTen(2, Person1.Ho, Person1.TenDem, Person1.Ten));
+            Console.WriteLine("Tên của bạn là {0}", hienThiTen(3, Person1.Ho, Person1.TenDem, Person1.Ten));
+            Console.WriteLine("Tên của bạn là {0}", hienThiTen(4, Person1.Ho, Person1.TenDem, Person1.Ten));
         }
     }
 }

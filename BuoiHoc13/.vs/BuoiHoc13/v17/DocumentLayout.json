@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF03A7BC-0D94-4C99-86CB-4CFF6D6F7F4E}|BuoiHoc13.csproj|c:\\users\\admin\\source\\repos\\baitapc\\buoihoc13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF03A7BC-0D94-4C99-86CB-4CFF6D6F7F4E}|BuoiHoc13.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF03A7BC-0D94-4C99-86CB-4CFF6D6F7F4E}|BuoiHoc13.csproj|C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc13\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF03A7BC-0D94-4C99-86CB-4CFF6D6F7F4E}|BuoiHoc13.csproj|solutionrelative:baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaiTap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc13\\BaiTap.cs",
+              "RelativeDocumentMoniker": "BaiTap.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc13\\BaiTap.cs",
+              "RelativeToolTip": "BaiTap.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAswIIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:15:30.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc13\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapC\\BuoiHoc13\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:15:31.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

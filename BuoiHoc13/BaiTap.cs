@@ -68,10 +68,65 @@ namespace BuoiHoc13
             }
             return result;
         }
-        ~ Person()
+        ~Person()
         {
             Console.WriteLine("Hủy");
         }
     }
+    public class HoVaTen
+    {
+        public delegate string NameDelegate(int i, string a, string b, string c);
+        private string ho;
+        private string tenDem;
+        private string ten;
 
+        public string Ho { get => ho; set => ho = value; }
+        public string TenDem { get => tenDem; set => tenDem = value; }
+        public string Ten { get => ten; set => ten = value; }
+
+        public string HienThiTen(int i,string a, string b, string c)
+        {
+            string userName = "";
+            switch (i)
+            {
+                case 1:
+                    userName = a + " " + b + " " + c;
+                    break;
+                case 2:
+                    userName = a.ToLower() +" "+ b.ToLower() +" "+ c.ToLower();
+                        break;
+                case 3:
+                    userName = a.ToUpper() + " " + b.ToUpper() + " " + c.ToUpper();
+                    break;
+                case 4:
+                    char[] _a = a.ToCharArray();
+                    char[] _b = b.ToCharArray();
+                    char[] _c = c.ToCharArray();
+                    for (int j = 0; j < _a.Length; j++)
+                    {
+                        _a[j] = char.ToLower(_a[j]);
+                    }
+
+                    for (int j = 0; j < _b.Length; j++)
+                    {
+                        _b[j] = char.ToLower(_b[j]);
+                    }
+
+                    for (int j = 0; j < _c.Length; j++)
+                    {
+                        _c[j] = char.ToLower(_c[j]);
+                    }
+
+                    _a[0] = char.ToUpper(_a[0]);
+                    _b[0] = char.ToUpper(_b[0]);
+                    _c[0] = char.ToUpper(_c[0]);
+                    string new_a = new string(_a);
+                    string new_b = new string(_b);
+                    string new_c = new string(_c);
+                    userName = new_a + " " + new_b + " " + new_c;
+                    break;
+            }
+            return userName;
+        }
+    }
 }
