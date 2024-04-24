@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "E:\\BaiTapC\\HBAcademy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F9EADEE-A243-4258-9329-F66FC8F798B1}|..\\BuoiHoc13\\BuoiHoc13.csproj|e:\\baitapc\\buoihoc13\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C03C2D3-664A-470F-929C-DE5416DD1366}|..\\BuoiHoc14\\BuoiHoc14.csproj|e:\\baitapc\\buoihoc14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F9EADEE-A243-4258-9329-F66FC8F798B1}|..\\BuoiHoc13\\BuoiHoc13.csproj|e:\\baitapc\\buoihoc13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C03C2D3-664A-470F-929C-DE5416DD1366}|..\\BuoiHoc14\\BuoiHoc14.csproj|e:\\baitapc\\buoihoc14\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,32 +16,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BaiTap.cs",
-              "DocumentMoniker": "E:\\BaiTapC\\BuoiHoc13\\BaiTap.cs",
-              "RelativeDocumentMoniker": "..\\BuoiHoc13\\BaiTap.cs",
-              "ToolTip": "E:\\BaiTapC\\BuoiHoc13\\BaiTap.cs",
-              "RelativeToolTip": "..\\BuoiHoc13\\BaiTap.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAALAAAA",
+              "DocumentMoniker": "E:\\BaiTapC\\BuoiHoc14\\BaiTap.cs",
+              "RelativeDocumentMoniker": "..\\BuoiHoc14\\BaiTap.cs",
+              "ToolTip": "E:\\BaiTapC\\BuoiHoc14\\BaiTap.cs",
+              "RelativeToolTip": "..\\BuoiHoc14\\BaiTap.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAqwJEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T12:38:00.779Z",
+              "WhenOpened": "2024-04-24T12:39:07.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\BaiTapC\\BuoiHoc13\\Program.cs",
-              "RelativeDocumentMoniker": "..\\BuoiHoc13\\Program.cs",
-              "ToolTip": "E:\\BaiTapC\\BuoiHoc13\\Program.cs",
-              "RelativeToolTip": "..\\BuoiHoc13\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBcAAAA6AAAA",
+              "DocumentMoniker": "E:\\BaiTapC\\BuoiHoc14\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BuoiHoc14\\Program.cs",
+              "ToolTip": "E:\\BaiTapC\\BuoiHoc14\\Program.cs",
+              "RelativeToolTip": "..\\BuoiHoc14\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvyYAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T12:37:41.619Z",
+              "WhenOpened": "2024-04-24T12:38:47.854Z",
               "EditorCaption": ""
             }
           ]

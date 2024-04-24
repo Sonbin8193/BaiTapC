@@ -1,0 +1,15 @@
+E:\BaiTapC\BuoiHoc14\bin\Debug\net8.0\BuoiHoc14.exe
+E:\BaiTapC\BuoiHoc14\bin\Debug\net8.0\BuoiHoc14.deps.json
+E:\BaiTapC\BuoiHoc14\bin\Debug\net8.0\BuoiHoc14.runtimeconfig.json
+E:\BaiTapC\BuoiHoc14\bin\Debug\net8.0\BuoiHoc14.dll
+E:\BaiTapC\BuoiHoc14\bin\Debug\net8.0\BuoiHoc14.pdb
+E:\BaiTapC\BuoiHoc14\obj\Debug\net8.0\BuoiHoc14.GeneratedMSBuildEditorConfig.editorconfig
+E:\BaiTapC\BuoiHoc14\obj\Debug\net8.0\BuoiHoc14.AssemblyInfoInputs.cache
+E:\BaiTapC\BuoiHoc14\obj\Debug\net8.0\BuoiHoc14.AssemblyInfo.cs
+E:\BaiTapC\BuoiHoc14\obj\Debug\net8.0\BuoiHoc14.csproj.CoreCompileInputs.cache
+E:\BaiTapC\BuoiHoc14\obj\Debug\net8.0\BuoiHoc14.sourcelink.json
+E:\BaiTapC\BuoiHoc14\obj\Debug\net8.0\BuoiHoc14.dll
+E:\BaiTapC\BuoiHoc14\obj\Debug\net8.0\refint\BuoiHoc14.dll
+E:\BaiTapC\BuoiHoc14\obj\Debug\net8.0\BuoiHoc14.pdb
+E:\BaiTapC\BuoiHoc14\obj\Debug\net8.0\BuoiHoc14.genruntimeconfig.cache
+E:\BaiTapC\BuoiHoc14\obj\Debug\net8.0\ref\BuoiHoc14.dll
