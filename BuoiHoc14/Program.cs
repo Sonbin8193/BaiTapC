@@ -1,4 +1,9 @@
-﻿using System.Linq;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.Cryptography.X509Certificates;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace BuoiHoc14
 {
@@ -7,7 +12,6 @@ namespace BuoiHoc14
         static void Main()
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
-            Console.InputEncoding = System.Text.Encoding.UTF8;
             List<Student> students = new List<Student>();
             chonlai:
             Console.WriteLine("Vui lòng chọn 1 trong các mục dưới đây: ");
@@ -85,9 +89,9 @@ namespace BuoiHoc14
             static void TimDiemCaoNhatVaThapNhat(List<Student> _student)
             {
                 List<Student> studentList = _student;
-                studentList.Sort((name1, name2) => { return name1.PointAverage.CompareTo(name2.PointAverage); });
-                Console.WriteLine("Điểm cao nhất là {} thuộc về sinh viên {}", studentList[studentList.Count - 1].PointAverage, studentList[studentList.Count - 1].HoTen);
-                Console.WriteLine("Điểm thấp nhất là {} thuộc về sinh viên {}", studentList[0].PointAverage, studentList[0].HoTen);
+                studentList.Sort((name1, name2) => { return int.Parse(name1.PointAverage).CompareTo(int.Parse(name2.PointAverage)); });
+                Console.WriteLine($"Điểm cao nhất là {studentList[studentList.Count - 1].PointAverage} thuộc về sinh viên {studentList[studentList.Count - 1].HoTen}");
+                Console.WriteLine($"Điểm thấp nhất là {studentList[0].PointAverage} thuộc về sinh viên {studentList[0].HoTen}");
             }
 
             static void TimSinhVien(List<Student> _student)
@@ -98,18 +102,14 @@ namespace BuoiHoc14
                 {
                     if (maSV.Contains(_student[i].Id))
                     {
-                        Console.WriteLine("Mã sinh viên {0} là của sinh viên {1}", _student[i].Id, _student[i].HoTen);
+                        Console.WriteLine($"Mã sinh viên {_student[i].Id} là của sinh viên {_student[i].HoTen}");
                     }
                 }
             }
 
             static void XepDanhSach(List<Student> _student)
             {
-                List<Student> namesList = new List<Student>();
-                for (int i = 0; i < 5; i++)
-                {
-                    namesList.Add(_student[i]);
-                }
+                List<Student> namesList = _student;
                 namesList.Sort((name1, name2) => {
                     var array1 = name1.HoTen.Split(" ");
                     var array2 = name2.HoTen.Split(" ");
@@ -137,7 +137,7 @@ namespace BuoiHoc14
 
             static void XepDanhSachHocBong(List<Student> _student)
             {
-                List<Student> namesList = new List<Student>();
+                List<Student> namesList = _student;
                 for (int i = 0; i < namesList.Count; i++)
                 {
                     if (_student[i].XetHocBong(int.Parse(_student[i].PointAverage)))
@@ -146,11 +146,18 @@ namespace BuoiHoc14
                     }
                 }
                 namesList.Sort((name1, name2) => { return name1.PointAverage.CompareTo(name2.PointAverage); });
-                foreach (var item in namesList)
+                foreach (var name in namesList)
                 {
-                    item.ShowInfo();
+                    name.ShowInfo();
                 }
             }
+        }
+    }
+    internal class TeacherTest
+    {
+        static void Main(string[] args)
+        {
+
         }
     }
 }

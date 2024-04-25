@@ -62,7 +62,8 @@ namespace BuoiHoc14
         public string DiaChi { get => diaChi; set => diaChi = value; }
         public virtual void PutInfo()
         {
-            Console.WriteLine("Xin mời nhập tên sinh viên: ");
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Console.WriteLine("Xin mời nhập tên: ");
             HoTen = Console.ReadLine();
             Console.WriteLine("Xin mời nhập ngày sinh: ");
             NgaySinh = Console.ReadLine();
@@ -137,6 +138,52 @@ namespace BuoiHoc14
                 Console.WriteLine("Không đủ điều kiện nhận học bổng"); ;
             }
             return result;
+        }
+    }
+    public class Teacher : Person
+    {
+        private string classRoom;
+        private string salaryPerHour;
+        private string workHour;
+
+        public string ClassRoom { get => classRoom; set => classRoom = value; }
+        public string SalaryPerHour { get => salaryPerHour; set => salaryPerHour = value; }
+        public string WorkHour { get => workHour; set => workHour = value; }
+
+        public override void PutInfo()
+        {
+            base.PutInfo();
+            char[] nameClass = { 'G', 'H', 'I', 'K', 'L', 'M' };
+            nhaplailophoc:
+            Console.WriteLine("Nhập tên lớp học: ");
+            ClassRoom = Console.ReadLine();
+            if (!nameClass.Contains(ClassRoom[0]))
+            {
+                goto nhaplailophoc;
+            }
+            Console.WriteLine("Nhập mức lương mỗi giờ dạy: ");
+            SalaryPerHour = Console.ReadLine();
+            Console.WriteLine("Nhập số giờ dạy trong tuần: ");
+            WorkHour = Console.ReadLine();
+        }
+        public override void ShowInfo()
+        {
+            base.ShowInfo();
+            Console.WriteLine("Lớp dạy:  {0}", ClassRoom);
+            Console.WriteLine("Mức lương: {0}", SalaryPerHour);
+            Console.WriteLine("Số giờ đã dạy: {0}", WorkHour);
+        }
+
+        public int TinhLuong()
+        {
+            if (ClassRoom[0] == 'G'|| ClassRoom[0] == 'H' || ClassRoom[0] == 'I' || ClassRoom[0] == 'K')
+            {
+                return int.Parse(SalaryPerHour)*int.Parse(WorkHour);
+            }
+            else
+            {
+                return int.Parse(SalaryPerHour)*int.Parse(WorkHour) + 200000;
+            }
         }
     }
 }
