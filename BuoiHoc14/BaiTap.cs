@@ -87,7 +87,7 @@ namespace BuoiHoc14
         private string email;
 
         public string Id { get => id; set => id = value; }
-        public string PointAverage { get => pointAverage; set => pointAverage = value; }
+        public string HourWork { get => pointAverage; set => pointAverage = value; }
         public string Email { get => email; set => email = value; }
         public override void PutInfo()
         {
@@ -102,8 +102,8 @@ namespace BuoiHoc14
             }
         nhapdtb:
             Console.WriteLine("Nhập điểm trung bình của bạn: ");
-            PointAverage = Console.ReadLine();
-            int Int_PointAverage = int.Parse(PointAverage);
+            HourWork = Console.ReadLine();
+            int Int_PointAverage = int.Parse(HourWork);
             if (Int_PointAverage < 0 || Int_PointAverage > 10)
             {
                 Console.WriteLine("Xin mời nhập lại điểm trong khoảng 0-10");
@@ -122,7 +122,7 @@ namespace BuoiHoc14
         {
             base.ShowInfo();
             Console.WriteLine("ID:  {0}", Id);
-            Console.WriteLine("Điểm: {0}", PointAverage);
+            Console.WriteLine("Điểm: {0}", HourWork);
             Console.WriteLine("Email: {0}", Email);
         }
         public bool XetHocBong(int point)
